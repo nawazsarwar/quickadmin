@@ -12,12 +12,13 @@
       "email": "povilas@laraveldaily.com"
     }
   ],
-  "version": "9.0.0",
+  "version": "10.0.0",
   "require": {
-    "laravel/framework": "9.*",
+    "laravel/framework": "10.*",
     "laravelcollective/html": "^6.2",
     "intervention/image": "^2.7",
-    "yajra/laravel-datatables-oracle": "^9.18"
+    "yajra/laravel-datatables-oracle": "^9.18",
+    "laravel/ui": "^4.2"
   },
   "classmap": [
     "src/Controllers",
